@@ -69,4 +69,7 @@ git status
 13) Rebasing commits
 ```
 git rebase
-```
+
+14)Pointer to the currently Checked out branch
+
+git show HEAD
