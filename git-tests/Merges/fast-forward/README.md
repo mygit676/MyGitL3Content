@@ -43,7 +43,7 @@ git checkout master
 git merge branch1
 ```
 
-You will see an output as follows:
+You will see an output as below:
 
 ```
 Updating 089da6e..2f12be6

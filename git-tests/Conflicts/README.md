@@ -3,7 +3,7 @@
 1) Let us assume a file "file1.txt" in our codecommit repo. The file has the following content. followinf content
 
 ```
-This is a conflictdemo
+This is a demo for merge conflict
 This is console-user
 ```
 

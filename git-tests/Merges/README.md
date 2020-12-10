@@ -1,1 +1,1 @@
-Merges
+Demonstrating git merges and strategies

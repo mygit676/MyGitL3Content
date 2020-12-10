@@ -10,7 +10,7 @@ git branch -a
 git branch branch1
 ```
 
-3) To checkout to the branch 
+3) To checkout to  branch1 
 ```
 git checkout branch1
 ```
