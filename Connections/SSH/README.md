@@ -42,6 +42,4 @@ Host git-codecommit.*.amazonaws.com
 ```
 The above essentially means that, for any host that starts with 'git-codecommit' and ends with 'amazonaws.com' , use the below User ID and the key for authntication
 
-
-
-
+====
